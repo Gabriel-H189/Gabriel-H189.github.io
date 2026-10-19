@@ -79,7 +79,7 @@ img {
     transform: translateX(-50%);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 800px) {
     body {
         padding: 140px 12px;
     }
